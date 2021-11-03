@@ -1,4 +1,4 @@
-# * BU proyekt Full Stack programlaşdırma campında ikinci ve biraz çətin ev tapşırığıdı.*
+###  B proyekt Full Stack programlaşdırma campında ikinci ve biraz çətin ev tapşırığıdı.
 
 
 *Bu proyekt 3 hissədən ibarətdir 
@@ -6,4 +6,4 @@
 - Portfolio
 - Contact
 
-*Bu tapşırığı gəcəkdə proqlaşdırma campından təkmiləşdirmək istəyirəm.*
+*Bu tapşırığı gəcəkdə proqlaşdırma campından sonra təkmiləşdirmək istəyirəm.*
