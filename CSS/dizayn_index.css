@@ -1,0 +1,127 @@
+/* -----------header------------*/
+
+.basliqhisse{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    background-color: #FFF;
+    border-bottom: 1px solid #ddd;
+}
+.basliqhisse .adhisse{
+    width: 250px;
+    height:100px;
+    box-sizing: border-box;
+    border:1px solid  #ededed;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    background-color: rgb(74, 170, 165);
+    font-size: 30px;
+    padding-top: 30px;
+}
+
+.basliqhisse .navs{
+    list-style-type: none;
+    margin-top: 30px;
+    color: #999;
+    box-sizing: border-box;
+    
+}
+.basliqhisse .navs a{
+    text-decoration: none;
+    font-size: 25px;
+    color: #999;
+    padding: 15px;
+    border-right: 1px solid #999;
+    
+}
+
+/* -----------header------------*/
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: url(../images/concrete_seamless.png);
+}
+
+/* -----------Center------------*/
+.ortahisse{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    box-sizing: border-box;
+}
+
+
+
+.aboutme{
+    width: 45%;
+    margin-right: 80px;
+    height: auto;
+    background-color: #fff;
+    border: 1px solid #DDD;
+    border-radius: 20px;
+    box-sizing: border-box;
+}
+
+.aboutme .title {
+    color: rgb(74, 170, 165);
+    font-weight: bold;
+    font-size: 40px;
+    margin: 25px 0 20px 30px;
+}
+.aboutme img{
+    width: 200px;
+    height: 200px;
+    margin: 20px 0 20px 30px;
+    float: left;
+    margin-right: 20px;
+}
+.aboutme p{
+    line-height: 1.2em;
+    text-align: justify;
+    padding: 20px;
+
+}
+hr{
+    margin: 0 30px 0 30px;
+    border-width: 2px;
+    border-style: solid;
+    color: #999;
+}
+
+.contact{
+    width: 300px;
+    height: 200px;
+    background-color: #fff;
+    border: 1px solid #DDD;
+    border-radius: 20px;
+    margin-left: -20px;
+    box-sizing: border-box;
+}
+.contact h2{
+    color: rgb(74, 170, 165);
+    font-weight: bold;
+    font-size: 27px;
+    margin: 25px 0 20px 30px;
+}
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 15px;
+}
+.contact img{
+    width: 50px;
+    height: 50px;
+}
+
+footer{
+    text-align: center;
+    padding-top: 30px;
+    width: 100%;
+    height: 60px;
+    border-top: 10px solid green;
+    background-color: #999;
+    color: #666;
+    margin-top: 50px;
+
+}
